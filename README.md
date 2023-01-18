@@ -10,7 +10,7 @@
 <h3> To get a better idea of what I do! </h3>
 
 <a href="https://www.linkedin.com/in/%C3%A6hab">
-  <img width="50" src="https://static.vecteezy.com/system/resources/previews/009/097/186/original/blue-color-white-background-linkedin-design-logo-sign-symbol-free-vector.jpg"/> 
+  <img width="48" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png"/> 
 </a>
 
 <a href="https://www.kaggle.com/aehabv"> 
