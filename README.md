@@ -4,6 +4,7 @@
   <img src="https://profile-counter.glitch.me/aehabv/count.svg" />
 </p>
 
+
 - 🎯 I’m a junior data scientist.
 - 🎨 I'm honing my data science skills to stay ahead of the game.
 - 🎤 I'm totally enthralled by the talks on Data Science and AI!
@@ -11,25 +12,20 @@
 
 
 > Torture the data, and it will confess to anything. 
-
-<div align="center">
-<h3> To get a better idea of what I do! </h3>
-
-<a href="https://www.linkedin.com/in/%C3%A6hab">
-  <img width="48" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png"/> 
-</a>
-
-<a href="https://www.kaggle.com/aehabv"> 
-  <img width="100" src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" style="margin-right:50px;"/>
-</a>
-
-<a href="https://www.reddit.com/user/AEhabV"> 
-  <img width="45" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png"/> 
-</a>
-
-</div>
   
 &nbsp;
+
+## My Stats
+![GitHub followers](https://img.shields.io/github/followers/aehabv?style=social)
 | | |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------- |
 | ![Ehab's github stats](https://github-readme-stats.vercel.app/api?username=aehabv&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aehabv&theme=algolia) |
+
+
+### To get a better idea of what I do!
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white "Kaggle")](https://www.kaggle.com/aehabv "Kaggle") 
+[![Credly](https://img.shields.io/badge/-Credly-FF6700?style=flat&logo=credly&logoColor=white "Credly")](https://www.credly.com/users/aehabv "Credly")
+
+#### Stay in touch
+ [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white "Gmail")](mailto:aehab16119@gmail.com "Gmail") [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/%C3%A6hab "LinkedIn") [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white "WhatsApp")](https://wa.me/+201094860674 "WhatsApp")
+
