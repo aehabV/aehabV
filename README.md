@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center"> 
+  Page Views<br>
+  <img src="https://profile-counter.glitch.me/aehabv/count.svg" />
+</p>
 
 - 🎯 I’m a junior data scientist.
 - 🎨 I'm honing my data science skills to stay ahead of the game.
@@ -24,3 +28,8 @@
 </a>
 
 </div>
+
+
+| | |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| ![Ehab's github stats](https://github-readme-stats.vercel.app/api?username=aehabv&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aehabv&theme=algolia) |
