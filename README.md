@@ -1,4 +1,7 @@
-## Howdy 👋
+## Howdy
+<p align="center">
+  <img src="howdy.gif" alt="tom_say_howdy" width="200"/>
+</p>
 <p align="center"> 
   Page Views<br>
   <img src="https://profile-counter.glitch.me/aehabv/count.svg" />
