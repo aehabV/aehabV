@@ -1,7 +1,5 @@
-## Howdy
-<p align="center">
-  <img src="howdy.gif" alt="tom_say_howdy" width="200"/>
-</p>
+# Howdy <img src="howdy.gif" width="100">
+
 <p align="center"> 
   Page Views<br>
   <img src="https://profile-counter.glitch.me/aehabv/count.svg" />
@@ -25,7 +23,7 @@
 | ![Ehab's github stats](https://github-readme-stats.vercel.app/api?username=aehabv&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aehabv&theme=algolia) |
 
 
-### To get a better idea of what I do!
+### To get a better idea of what I do! <img src="thinking.gif" width="27">
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white "Kaggle")](https://www.kaggle.com/aehabv "Kaggle") 
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white "Credly")](https://www.credly.com/users/aehabv "Credly")
 
