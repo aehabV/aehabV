@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Page Views<br>
-  <img src="https://profile-counter.glitch.me/aehabv/count.svg" />
+  <img src="https://profile-counter.glitch.me/aehabv/count.svg"/>
 </p>
 
 
@@ -16,11 +16,11 @@
   
 &nbsp;
 
-## My Stats
+## Stats
 ![GitHub followers](https://img.shields.io/github/followers/aehabv?style=social)
 | | |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| ![Ehab's github stats](https://github-readme-stats.vercel.app/api?username=aehabv&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aehabv&theme=algolia) |
+| ![Ehab's github stats](https://github-readme-stats.vercel.app/api?username=aehabv&show_icons=true&theme=github_dark_dimmed&count_private=true&custom_title=GitHub%20Stats&hide=prs,issues&title_color=#0a2540) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aehabv&layout=compact&theme=github_dark_dimmed&title_color=#0a2540) |
 
 
 ### To get a better idea of what I do! <img src="thinking.gif" width="27">
