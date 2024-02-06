@@ -1,7 +1,7 @@
 # Howdy <img src="howdy.gif" width="100">
 
 <p align="center"> 
-  Page Views<br>
+  Profile Views<br>
   <img src="https://profile-counter.glitch.me/aehabv/count.svg"/>
 </p>
 
